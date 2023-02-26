@@ -31,12 +31,11 @@ header{
 }
 
 .navigation li{
-
-
     margin-right:50px;
 }
 
 .nav-txt{
+    font-family: Helvetica-Neue;
     color: #FFFFFF;
     font-size: 16px;
     line-height:18px;
@@ -67,6 +66,7 @@ section{
 }
 
 .section-h{
+    font-family: Helvetica-Neue;
     color: #171717;
     font-size: 28px;
     font-weight: bold;
@@ -90,6 +90,7 @@ section{
 }
 
 .txt{
+    font-family: HelveticaNeueLTGEOW82-55Rm;;
     padding-top: 60px;
     max-width:951px;
     width: 100%;
@@ -142,6 +143,7 @@ h2{
     font-size: 32px;
     color: #FFFFFF;
     padding-top: 275px;
+    font-family: Helvetica-Neue;
 }
 
 footer a{
@@ -149,6 +151,7 @@ footer a{
     
 }
 footer p{
+    font-family: HelveticaNeueLTGEOW82-55Rm;
     color: #FFFFFF;
     font-size: 16px;
     max-width: 463px;
