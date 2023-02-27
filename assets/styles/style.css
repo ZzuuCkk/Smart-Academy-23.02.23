@@ -17,6 +17,7 @@ header{
     height: 387.56px;
     display: flex;
     justify-content: space-between;
+    flex-wrap:wrap;
 
 }
 .header-logo{
@@ -26,6 +27,7 @@ header{
 .navigation{
     display: flex;
     justify-content: space-between;
+    flex-wrap:wrap;
     padding-top: 64px;
 
 }
@@ -79,6 +81,7 @@ section{
     width: 100%;
     display: flex;
     justify-content: space-between;
+    flex-wrap:wrap;
     margin-top: 60px;
 
 }
@@ -107,6 +110,7 @@ section{
 .info{
 display: flex;
 justify-content:center ;
+flex-wrap:wrap;
 }
 
 .info-btn{
@@ -137,6 +141,7 @@ footer{
 .footer_div{
     display: flex;
     justify-content: left;
+    flex-wrap:wrap;
     padding-left: 240px;
 }
 
@@ -183,6 +188,7 @@ iframe{
 .two_pic{
     display: flex;
     justify-content: space-between;
+    flex-wrap:wrap;
     position: relative;
 }
 
